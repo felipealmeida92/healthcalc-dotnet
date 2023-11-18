@@ -5,6 +5,19 @@
     <RootNamespace>healthcalc_pack_dotnet</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Health Calc Pack - OF4</Title>
+    <Description>Calculadora de Saúde. IMC e Macronutrientes</Description>
+    <PackageIcon>icone.png</PackageIcon>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/felipealmeida92/healthcalc-dotnet</RepositoryUrl>
+    <PackageId>Health-CalcPack-OF4-FelipeAlmeida</PackageId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Arquivos\icone.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
