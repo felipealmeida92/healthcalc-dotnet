@@ -6,7 +6,7 @@ Projeto Calculadora de Saúde
 # Sobre o projeto
 
 
-Healthcalc é uma aplicação .NET construída durante o curso de Engenharia de Software - Projeto Integrado em Engenharia de Software lessionado pelo professor Filipe Nhimi - (https://github.com/filipenhimi), pós-graduação na PUC Minas.
+Healthcalc é uma aplicação .NET construída durante o curso de Engenharia de Software - Projeto Integrado em Engenharia de Software lecionado pelo professor Filipe Nhimi - (https://github.com/filipenhimi), pós-graduação na PUC Minas.
 
 O HealthCalc-dotnet é uma aplicação de console simples e leve em .NET Core para calcular e acompanhar métricas básicas relacionadas à saúde. Seja você um entusiasta da forma física, um profissional da saúde ou apenas alguém interessado em monitorar seu bem-estar, esta ferramenta oferece uma maneira conveniente de realizar várias medições relacionadas à saúde.
 
